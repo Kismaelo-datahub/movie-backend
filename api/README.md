@@ -14,7 +14,7 @@ Bienvenue dans l’API **MovieLens** – une API RESTful développée avec **Fas
 
 ## Prérequis
 
-- Python ≥ 3.11
+- Python ≥ 3.10
 - Un client HTTP comme `httpx` ou `requests`
 
 Installation rapide de `httpx` :
@@ -113,6 +113,6 @@ print(response.json())
 
 ## URL publique (Cloud) de l'API
 
-[API Movielens sur Render](https://movie-backend-xelv.onrender.com)
+[API Movielens sur Render](https://movie-backend-5wm9.onrender.com)
 
 
